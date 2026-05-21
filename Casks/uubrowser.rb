@@ -1,8 +1,8 @@
 cask "uubrowser" do
-  version "2.12.2"
+  version "2.12.3"
   sha256 "5f0812d18d321857cc3d4f70c34f314d62552e8e3a1d98f712c65dc2af2fe1d2"
 
-  #https://github.com/kweisoft/UUBrowser_mac/releases/download/V2.12.2/UUBrowser_Arm_2.12.2.dmg
+  #https://github.com/kweisoft/UUBrowser_mac/releases/download/V2.12.3/UUBrowser_Arm_2.12.3.dmg
   url "https://github.com/kweisoft/UUBrowser_mac/releases/download/V#{version}/UUBrowser_Arm_#{version}.dmg"
   name "UUBrowser"
   desc "UUBrowser for macOS"
